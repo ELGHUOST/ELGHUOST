@@ -1,31 +1,24 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mohamed
-=================================================================================================================================
+![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Mohamed%20&fontColor=Black&fontAlignY=47&animation=fadeIn&desc=SysAdmin%20&descSize=30&descAlignY=60&descAlign=71)
 
-System Administrator
---------------------
 
-I’m a network administrator who enjoys building robust infrastructures—from virtualization and routing protocols to core network design and VLAN segmentation. I love setting up efficient, scalable, and well-structured environments that bring systems and networks to life.
+I am a student currently pursuing a bachelor's in networking, passionate about dev and offensive cybersecurity. I enjoy participating in CTFs during my free time (mostly on <a href="https://ctftime.org/user/157452">CTFTime</a> where I lead the <a href="https://ctftime.org/team/368433">fish3r CTF team</a> and <a href="https://www.root-me.org/NullBrunk?q=%2FNullbrunk">Root-Me</a> where I'm ranked top 1500.
 
-I’m also passionate about cybersecurity and regularly challenge myself through CTF competitions. I currently lead my own CTF team, where I sharpen my offensive security skills and explore real-world attack scenarios.
+```json
+{
+  "Tech": [ "Python3", "HTML/CSS/JS", "Bash" ],
+  "DB": [ "MySQL", "MariaDB" ],
+  "DevOps": [ "Docker", "Kubernetes" ],
+  "SysAdmin": [ "Linux", "SSH", "nginx", "iptables", "systemd" ],
+  "Pentest": [ "nmap", "sqlmap", "burp" ]
+}
+```
 
-*   🌍  I'm based in Montbéliard
-*   🧠  I'm currently learning Bachelor’s degree in Network and Telecommunications (CyberSecurity)
-*   💬  Ask me about I’m passionate about learning new languages and I’m currently studying Chinese 🇨🇳✨
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" title="Vim" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
-                  </p>
-                  
+<details open>
+    <summary><h3>My hacking tools</h3></summary>
+    <ul>
+        <li><a href="https://github.com/ELGHUOST/CTF-Writeups">CTF Writeups </a>: My full CTF write-ups (HTB, TryHackMe, CTFtime, PicoCTF)</li>
+    </ul>
+    <summary><h3>Utils</h3></summary>
+</details>
 
-### Socials
-                
-<p align="left"> <a href="https://www.github.com/ELGHUOST" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.gitlab.com/ELGHUOST" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /> </picture> </a> <a href="https://discord.com/users/elghuost" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
-<a href="https://www.github.com/ELGHUOST" target="_blank" rel="noreferrer"><img
-                src="https://img.shields.io/github/followers/ELGHUOST?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/ELGHUOST"><img src="https://github-readme-stats.vercel.app/api?username=ELGHUOST&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ELGHUOST's GitHub stats" /></a>
-
-<a href="https://github.com/ELGHUOST" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELGHUOST&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![github-user-contribution](https://github.com/user-attachments/assets/bb1382f8-3c82-4b2b-bd49-c06d6ba16797)
