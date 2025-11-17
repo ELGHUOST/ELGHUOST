@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Mohamed%20&fontColor=FFFFFF&fontAlignY=47&animation=fadeIn&desc=SysAdmin%20&descSize=30&descAlignY=60&descAlign=71)
 
 
-I am a student currently pursuing a bachelor's in networking, passionate about dev and offensive cybersecurity. I enjoy participating in CTFs during my free time (mostly on <a href="https://ctftime.org/user/157452">CTFTime</a> where I lead the <a href="https://ctftime.org/team/369089">Les Bledardinho CTF team</a> and <a href="https://www.root-me.org/ELGHUOST?lang=fr#a0a239df314efe8206a2626881c85b42">Root-Me</a>.
+I’m currently completing my bachelor’s in networking while feeding my passion for coding and offensive cybersecurity. Whenever I’m not studying, you’ll find me solving CTF challenges. (mostly on <a href="https://ctftime.org/user/3l6hu05723">CTFTime</a> where I lead the <a href="https://ctftime.org/team/369089">Les Bledardinho CTF team</a> and <a href="https://www.root-me.org/ELGHUOST?lang=fr#a0a239df314efe8206a2626881c85b42">Root-Me</a>.
 
 ```json
 {
