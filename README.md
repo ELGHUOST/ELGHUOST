@@ -14,7 +14,7 @@ I’m currently completing my bachelor’s in networking while feeding my passio
 ```
 
 <details open>
-    <summary><h3>My hacking tools</h3></summary>
+    <summary><h3> Wy WriteUps </h3></summary>
     <ul>
         <li><a href="https://github.com/ELGHUOST/CTF-Writeups">CTF Writeups </a>: My full CTF write-ups (HTB, TryHackMe, CTFtime, PicoCTF)</li>
     </ul>
