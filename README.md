@@ -5,11 +5,13 @@ I’m currently completing my bachelor’s in networking while feeding my passio
 
 ```json
 {
-  "Tech": [ "Python3", "HTML/CSS/JS", "Bash" ],
-  "DB": [ "MySQL", "MariaDB" ],
-  "DevOps": [ "Docker", "Kubernetes" ],
-  "SysAdmin": [ "Linux", "SSH", "nginx", "iptables", "systemd" ],
-  "Pentest": [ "nmap", "sqlmap", "burp" ]
+  "Tech": ["Python3", "Bash"],
+  "DB": ["PostgreSQL", "Redis"],
+  "DevOps": ["Docker", "Kubernetes", "Helm", "ArgoCD", "Cilium", "Prometheus", "Grafana"],
+  "IaC": ["Terraform", "GitOps", "SOPS"],
+  "SysAdmin": ["Linux", "Proxmox", "NixOS", "Talos"],
+  "Réseau": ["WireGuard", "Pi-hole", "DNS"],
+  "Pentest": ["nmap", "sqlmap", "Burp Suite"]
 }
 ```
 
