@@ -16,9 +16,9 @@ I’m currently completing my bachelor’s in networking while feeding my passio
 ```
 
 <details open>
-    <summary><h3> My WriteUps </h3></summary>
+    <summary><h3> My Homelab </h3></summary>
     <ul>
-        <li><a href="https://github.com/ELGHUOST/CTF-Writeups">CTF Writeups </a>: My full CTF write-ups (HTB, TryHackMe, CTFtime, PicoCTF)</li>
+        <li><a href="https://github.com/ELGHUOST/k8s-talos-homelab">HomeLab </a> The setup of my Talos cluster on-prem </li>
     </ul>
 </details>
 
